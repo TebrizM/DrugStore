@@ -1,0 +1,15 @@
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\obj\Debug\net6.0\DrugStore.csproj.AssemblyReference.cache
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\obj\Debug\net6.0\DrugStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\obj\Debug\net6.0\DrugStore.AssemblyInfoInputs.cache
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\obj\Debug\net6.0\DrugStore.AssemblyInfo.cs
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\obj\Debug\net6.0\DrugStore.csproj.CoreCompileInputs.cache
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\bin\Debug\net6.0\DrugStore.exe
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\bin\Debug\net6.0\DrugStore.deps.json
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\bin\Debug\net6.0\DrugStore.runtimeconfig.json
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\bin\Debug\net6.0\DrugStore.dll
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\bin\Debug\net6.0\DrugStore.pdb
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\obj\Debug\net6.0\DrugStore.dll
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\obj\Debug\net6.0\refint\DrugStore.dll
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\obj\Debug\net6.0\DrugStore.pdb
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\obj\Debug\net6.0\DrugStore.genruntimeconfig.cache
+C:\Users\wacht\OneDrive\Desktop\ConsoleApp\DrugStore\DrugStore\obj\Debug\net6.0\ref\DrugStore.dll
